@@ -55,7 +55,18 @@
       <div class="cartridge">
         <span>
           Cartridge:
-          <input type="file" id="load-rom" />
+          <select id="select-rom">
+            <option value="roms/2048.gb">2048</option>
+            <option value="roms/porklike.gb">Porklike GB</option>
+            <option value="roms/Wyrmhole.gb">WYRMHOLE</option>
+            <option value="roms/evoland_0.3.0_en.gb">Evoland</option>
+            <option value="roms/knight2.gb">Unstoppable Knight</option>
+            <option value="roms/maxpirateeb.gb">Max Pirate Extra Boom</option>
+            <option value="roms/dmg_test_prog_ver1.gb">Blargg's Test</option>
+          </select>
+
+          <!-- Change this input type from "hidden" to "file" if you want to load your own ROMs -->
+          <input type="hidden" id="load-rom" />
         </span>
       </div>
       <div class="display">
