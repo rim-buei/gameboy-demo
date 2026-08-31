@@ -29,4 +29,5 @@ jobs:
           aws s3 sync --quiet --delete . s3://${{ secrets.AWS_S3_BUCKET }} \
             --exclude '.git/*' \
             --exclude '.github/*' \
+            --exclude 'README.md' \
             --exclude 'renovate.json'
