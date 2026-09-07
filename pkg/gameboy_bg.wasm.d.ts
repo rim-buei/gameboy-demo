@@ -2,11 +2,11 @@
 /* eslint-disable */
 export const memory: WebAssembly.Memory;
 export const main: () => void;
-export const wasm_bindgen_36275c6b963d97fa___convert__closures_____invoke___wasm_bindgen_36275c6b963d97fa___JsValue__core_f0fd674eaa06beef___result__Result_____wasm_bindgen_36275c6b963d97fa___JsError___true_: (a: number, b: number, c: any) => [number, number];
-export const wasm_bindgen_36275c6b963d97fa___convert__closures_____invoke___web_sys_d2bc7f563537eaa4___features__gen_KeyboardEvent__KeyboardEvent______true_: (a: number, b: number, c: any) => void;
-export const wasm_bindgen_36275c6b963d97fa___convert__closures_____invoke___web_sys_d2bc7f563537eaa4___features__gen_KeyboardEvent__KeyboardEvent______true__2: (a: number, b: number, c: any) => void;
-export const wasm_bindgen_36275c6b963d97fa___convert__closures_____invoke___web_sys_d2bc7f563537eaa4___features__gen_KeyboardEvent__KeyboardEvent______true__3: (a: number, b: number, c: any) => void;
-export const wasm_bindgen_36275c6b963d97fa___convert__closures_____invoke_______true_: (a: number, b: number) => void;
+export const wasm_bindgen_2a67c6f173b08fad___convert__closures_____invoke___wasm_bindgen_2a67c6f173b08fad___JsValue__core_ed718c3d60ebd546___result__Result_____wasm_bindgen_2a67c6f173b08fad___JsError___true_: (a: number, b: number, c: any) => [number, number];
+export const wasm_bindgen_2a67c6f173b08fad___convert__closures_____invoke___web_sys_58b58ca4cc4040c4___features__gen_KeyboardEvent__KeyboardEvent______true_: (a: number, b: number, c: any) => void;
+export const wasm_bindgen_2a67c6f173b08fad___convert__closures_____invoke___web_sys_58b58ca4cc4040c4___features__gen_KeyboardEvent__KeyboardEvent______true__3: (a: number, b: number, c: any) => void;
+export const wasm_bindgen_2a67c6f173b08fad___convert__closures_____invoke___web_sys_58b58ca4cc4040c4___features__gen_KeyboardEvent__KeyboardEvent______true__4: (a: number, b: number, c: any) => void;
+export const wasm_bindgen_2a67c6f173b08fad___convert__closures_____invoke_______true_: (a: number, b: number) => void;
 export const __wbindgen_malloc: (a: number, b: number) => number;
 export const __wbindgen_realloc: (a: number, b: number, c: number, d: number) => number;
 export const __wbindgen_exn_store: (a: number) => void;
